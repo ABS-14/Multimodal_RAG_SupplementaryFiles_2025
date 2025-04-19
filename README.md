@@ -1,2 +1,2 @@
 1. Fig. 1. Evolution of system architecture from the basic SASAi v1 to the upgraded Multimodal RAG Application. For dynamic view, refer to:
-   https://abs-14.github.io/Multimodal_RAG_SupplementaryFiles_2025/evolution_architecture.html
+       https://abs-14.github.io/Multimodal_RAG_SupplementaryFiles_2025/evolution_architecture.html
