@@ -43,7 +43,7 @@ Two models were developed:
 ## 📄 Published Paper (IJIRT - First Phase)
 
 **Title:** *AI Observability-Driven Multimodal RAG Application for Document Intelligence*  
-📥 [Download PDF]([./docs/Published_IJIRT_Paper_2024.pdf](https://github.com/ABS-14/Multimodal_RAG_SupplementaryFiles_2025/blob/main/RAG_Multimodel_ResearchPaper_IJSRET.pdf))
+📥 [Download PDF](https://github.com/ABS-14/Multimodal_RAG_SupplementaryFiles_2025/blob/main/RAG_Multimodel_ResearchPaper_IJSRET.pdf)
 
 > Published in: **International Journal of Innovative Research in Technology (IJIRT)**  
 > Issue: Vol. 11, Issue 4, April 2024
