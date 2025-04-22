@@ -21,14 +21,12 @@ Two models were developed:
 ## 🖼️ Diagrams & Visualizations
 
 ### Fig. 1 — System Evolution Diagram (Static)
-![System Evolution](./images/system_evolution_static.png)
 
 > **Dynamic View:**  
 > *Evolution of system architecture from the basic SASAi v1 to the upgraded Multimodal RAG Application.*  
 > 🔗 [View Interactive Diagram](https://abs-14.github.io/Multimodal_RAG_SupplementaryFiles_2025/evolution_architecture.html)
 
 ### Fig. 2 — Studently.ai Framework Architecture
-![Studently Framework](./images/studently_framework.png)
 
 ---
 
