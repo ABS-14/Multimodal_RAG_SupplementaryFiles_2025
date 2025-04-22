@@ -50,5 +50,4 @@ Two models were developed:
 
 ---
 
-## 📁 Folder Structure
 
