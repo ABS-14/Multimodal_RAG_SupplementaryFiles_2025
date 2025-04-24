@@ -4,7 +4,7 @@ This repository contains all supplementary materials for the research project:
 **"Multimodal RAG Application with AI Observability and Document Intelligence"**, including:
 - 🖼️ Static and dynamic architecture diagrams
 - 🎥 Demo video of the system
-- 📄 Published IJIRT paper (2024)
+- 📄 Published IJSRET paper (2024)
 
 ---
 
